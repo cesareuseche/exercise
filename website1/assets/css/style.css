@@ -35,3 +35,23 @@ body{
     text-decoration: none;
     color: gray;
 }
+
+.feature-title span{
+    color: gray;
+
+}
+
+.rounded-img{
+  border-radius: 50%;
+  max-width: 80%
+}
+
+.padding-section{
+    padding-bottom: 90px
+}
+
+.section-divider{
+    margin-top: 90px;
+    padding-top: 10px;
+    border-top: solid 2px gray;
+}
