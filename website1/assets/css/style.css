@@ -56,6 +56,17 @@ body{
     border-top: solid 2px gray;
 }
 
+.portfolio-heading h1{
+  margin-left: 30px
+}
+
+.first-divider{
+    display: flex;
+    border-top: solid 2px gray;
+    flex-direction: row;
+    padding-bottom: 60px;
+}
+
 .background-form{
     background: lightgrey;
     padding: 40px;
