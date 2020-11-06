@@ -10,6 +10,7 @@ body{
 .card-title {
     color: rgb(13, 105, 190);
 }
+<<<<<<< HEAD
 
 .jumbotron {
     height: 25%;
@@ -23,3 +24,5 @@ body{
     text-decoration: none;
     color: gray;
 }
+=======
+>>>>>>> ab5b482d3cf7a37cd379efcd77888ba1e43917ef
