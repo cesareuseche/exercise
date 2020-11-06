@@ -68,5 +68,23 @@ body{
 }
 
 .background-form{
-    background: gray;
+    background: lightgrey;
+    padding: 40px;
+}
+
+.first-divider{
+    border-top: solid 2px gray;
+    margin-bottom: 50px;
+}
+
+.btn-primary{
+    color: #fff;
+    background-color: #007bff;
+    border-color: #007bff;
+}
+
+.btn:hover{
+    color: #007bff;
+    background-color: #fff;
+    border-color: #007bff;
 }
