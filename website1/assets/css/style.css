@@ -73,7 +73,11 @@ body{
 }
 
 .btn:hover{
-    color: #007bff;
-    background-color: #fff;
-    border-color: #007bff;
+    color: #007bff !important;
+    background-color: #fff !important;
+    border-color: #007bff !important;
+}
+
+.spacing{
+    margin-top: 10px;
 }
