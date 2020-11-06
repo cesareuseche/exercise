@@ -92,3 +92,7 @@ body{
 .spacing{
     margin-top: 10px;
 }
+
+.col-lg-12 p {
+    text-align: left;
+}
