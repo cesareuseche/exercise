@@ -10,19 +10,28 @@ body{
 .card-title {
     color: rgb(13, 105, 190);
 }
-<<<<<<< HEAD
 
 .jumbotron {
-    height: 25%;
+    background-image: url(https://raw.githubusercontent.com/breatheco-de/exercise-collaborative-html-website/master/website1/assets/img/bg.jpg);
+    background-size: cover;
+    height: 900px;
 }
-.jumbotron h1, p {
+.heading h1, p{
     text-align: center;
     background-color: white;
     width: 100%;
+    padding: 5px;
+}
+.heading h1 {
+    font-size: 8rem;
+}
+.heading p {
+    font-size: 5rem;
+}
+.container-fluid {
+    padding-top: 6rem;
 }
 .nav-link {
     text-decoration: none;
     color: gray;
 }
-=======
->>>>>>> ab5b482d3cf7a37cd379efcd77888ba1e43917ef
