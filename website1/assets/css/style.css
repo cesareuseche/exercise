@@ -66,3 +66,7 @@ body{
     flex-direction: row;
     padding-bottom: 60px;
 }
+
+.background-form{
+    background: gray;
+}
